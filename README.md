@@ -33,4 +33,4 @@ rewards.py spring-boot:run
 
 Fabrízio Machado de Moura
 
-https://www.linkedin.com/in/fabriziomoura/)https://www.linkedin.com/in/fabriziomoura/
+https://www.linkedin.com/in/fabriziomoura/
