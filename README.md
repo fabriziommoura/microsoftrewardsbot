@@ -16,7 +16,7 @@ A aplicação consiste em uma pesquisa e execução de tarefas automaticamente, 
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Python 3.11 (ou superior)
+Pré-requisitos: Python 3.1 (ou superior)
 ```bash
 # clonar repositório
 git clone https://github.com/fabriziommoura/microsoftrewardsbot
